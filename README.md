@@ -13,6 +13,7 @@ The application ensures:
 
 ## 🧱 Project Structure
 
+```
 src/
 │
 ├── model/
@@ -37,7 +38,7 @@ src/
 │
 └── Main.java
 
-
+```
 ---
 
 ## 🧩 Application Layers
