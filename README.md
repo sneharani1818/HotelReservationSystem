@@ -16,24 +16,24 @@ The application ensures:
 src/
 │
 ├── model/
-│ ├── RoomType.java
-│ ├── IRoom.java
-│ ├── Room.java
-│ ├── FreeRoom.java
-│ ├── Customer.java
-│ └── Reservation.java
+│   ├── RoomType.java
+│   ├── IRoom.java
+│   ├── Room.java
+│   ├── FreeRoom.java
+│   ├── Customer.java
+│   └── Reservation.java
 │
 ├── service/
-│ ├── CustomerService.java
-│ └── ReservationService.java
+│   ├── CustomerService.java
+│   └── ReservationService.java
 │
 ├── api/
-│ ├── HotelResource.java
-│ └── AdminResource.java
+│   ├── HotelResource.java
+│   └── AdminResource.java
 │
 ├── ui/
-│ ├── MainMenu.java
-│ └── AdminMenu.java
+│   ├── MainMenu.java
+│   └── AdminMenu.java
 │
 └── Main.java
 
